@@ -1,6 +1,6 @@
 {
   "orders": [
     { "id": 1, "status": "completed" },
-    { "id": 2, "status": "cancelled" },
+    { "id": 2, "status": "cancelled" }
   ]
 }
